@@ -52,7 +52,7 @@
                         <ul class="list-inline-item mb-0" type='none'>
                         <li><h7 class='fw-bolder'>Song 1 - "Sun and Moon"</h7><i> - Song Composer: Anees</i></li>
                         <li><h7 class='fw-bolder'>Song 2- "Cheap Thrills" </h7><i> - Song Composer: Sia</i></li>
-                        
+                        <li><h7 class='fw-bolder'>Song 3- "Easy On Me" </h7><i> - Song Composer: Adele</i></li>
                         </ul>
                     </div>
                 </div>
