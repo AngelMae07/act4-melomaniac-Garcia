@@ -9,10 +9,10 @@
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
         <link href="css/styles.css" rel="stylesheet" />
         <style>
-        body {
-            
-            background: linear-gradient(to right, #e96443, #904e95);
+        body { 
+            background-color: lightgray;
             }
+
         </style>
 
 
@@ -21,7 +21,7 @@
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="mainNav">
             <div class="container px-4">
-                <a class="navbar-brand" href="#page-top"> Add your brand name here </a>
+                <a class="navbar-brand" href="#page-top">MaeLyrics</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto">
@@ -38,8 +38,8 @@
         <!-- Header-->
         <header class="bg-dark bg-gradient text-white">
             <div class="container px-4 text-center">
-                <h1 class="fw-bolder">Welcome to Melomaniac</h1>
-                <p class="lead">Add a short description here</p>
+                <h1 class="fw-bolder">Welcome to MaeLyrics</h1>
+                <p class="lead">Just a random music for all music lovers</p>
                 
             </div>
         </header>
@@ -48,9 +48,12 @@
             <div class="container px-4 ">
                 <div class="row gx-4 justify-content-center">
                     <div class="col-lg-12 text-center">
-                        <h2 class="text-primary">Song Title here</h2>
-                        <p class="lead">display the Composer here</p>
-                        <p>display the lyrics/chords here</p>
+                        <h2 class='fw-bolder'>"SONG LISTS"</h2><br>
+                        <ul class="list-inline-item mb-0" type='none'>
+                        <li><h7 class='fw-bolder'>Song 1 - "Sun and Moon"</h7><i> - Song Composer: Anees</i></li>
+                        <li><h7 class='fw-bolder'>Song 2- "Cheap Thrills" </h7><i> - Song Composer: Sia</i></li>
+                        
+                        </ul>
                     </div>
                 </div>
             </div>
