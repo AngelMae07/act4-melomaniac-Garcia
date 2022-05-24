@@ -37,8 +37,8 @@
         <header class="bg-dark bg-gradient text-white">
             
             <div class="container px-4 text-center">
-                <h1 class="fw-bolder">Easy On Me</h1>
-                <p class="lead">Song Composer: Adele</p>
+                <h1 class="fw-bolder">Never Enough</h1>
+                <p class="lead">Song Composer: Loren Allred</p>
                 
             </div>
         
@@ -58,59 +58,72 @@
                         echo "<p class='lead'></p>";
                         echo "<br/>";
 
-                        echo "<p class='small'>[Intro]</p>";
-                        echo "<p>(C).. (Am).. (Em).. (F).. </p>";
-
-                        echo "<p class='small'>[Verse 1]</p>";
-                        echo "<p> There ain’t (C) no gold in this (Am) river </p>";
-                        echo "<p> ThatI’ve been washin’ my hands in for(F)ever </p>";
-                        echo "<p> (F) I know (G) there is (C) hope in these (Am) waters </p>";
-                        echo "<p> But I can’t (G) bring myself to swim </p>";
-                        echo "<p> When (F) I am drowning in this (F) silence </p>"; 
-                        echo "<p> (F) Baby, let me in </p>";
+                        echo "<p class='small'>[Verse]</p>";
+                        echo "<p>[G]I'm trying to [D]hold my [Em]breath </p>";
+                        echo "<p> Let it [C]stay this [G]way  </p>";
+                        echo "<p> Can't [D]let this moment end </p>";
+                        echo "<p> [G]You set off a [D]dream in [Em]me </p>";
+                        echo "<p> Getting [C]louder [G]now </p>";
+                        echo "<p> Can you [D]hear it echoing? </p>";
+                        echo "<p>[Em]Take my hand  </p>";
+                        echo "<p>[C]Will you share this with [G]me? </p>";
+                        echo "<p> 'Cause darling [D]without you</p>"; 
                         echo "<br/>";
 
                         echo "<p class='small'>[Chorus ]</p>";
-                        echo "<p> Go (C) easy(Am) (G)on me, baby </p>";
-                        echo "<p>(Em) I was sti(Dm)ll a child  </p>";
-                        echo "<p> (Dm) Did(Em)n’t (F) get the chance to </p>";
-                        echo "<p> (C) Feel(Am) the (G) world around me </p>";
-                        echo "<p> I (Em) had no time to choo(Dm)se what I(Em) cho(F)se to do  </p>";
-                        echo "<p> So go (C) easy on (Am) me..(Em)..(F) </p>";
+                        echo "<p>[G]All the shine of   </p>";
+                        echo "<p> a thousand spotlights  </p>";
+                        echo "<p> [D]All the stars we </p>";
+                        echo "<p> steal from the night sky</p>";
+                        echo "<p> [Am]Will never be [Em]enough </p>";
+                        echo "<p>[C]Never be enough </p>";
+                        echo "<p>[G]Towers of gold are </p>";
+                        echo "<p> still too little  </p>";
+                        echo "<p>  These [D]hands could</p>";
+                        echo "<p>  hold the world but it'll </p>";
+                        echo "<p>[Am]Never be [Em]enough  </p>";
+                        echo "<p> [C]Never be enough </p>";
                         echo "<br/>";
 
-                        echo "<p class='small'>[Verse 2]</p>";
-                        echo "<p>(F) There (G) ain’t no (C) room for (Am)things to change </p>";
-                        echo "<p> When we are (G)both so deeply stuck in (F) our ways  </p>";
-                        echo "<p>(F)You (G) ca(C)n’t deny how hard I (Am) have tried  </p>";
-                        echo "<p> I changed (G)who I was to put you (F) both first </p>";
-                        echo "<p>  (F) (B)</p>";
-                        echo "<br/>";
-
-                        echo "<p class='small'>[Chorus ]</p>";
-                        echo "<p> Go (C) easy(Am) (G)on me, baby </p>";
-                        echo "<p>(Em) I was sti(Dm)ll a child  </p>";
-                        echo "<p> (Dm) Did(Em)n’t (F) get the chance to </p>";
-                        echo "<p> (C) Feel(Am) the (G) world around me </p>";
-                        echo "<p> I (Em) had no time to choo(Dm)se what I(Em) cho(F)se to do  </p>";
-                        echo "<p> So go (C) easy on (Am) me..(Em)..(F) </p>";
-                        echo "<br/>";
-
-                        echo "<p class='small'>[Bridge ]</p>";
-                        echo "<p> (C) I had good intenti(Am)ons </p>";
-                        echo "<p> And the highest ho(G)pes </p>";
-                        echo "<p> But I know right (F)now </p>";
-                        echo "<p>(F) It probably doesn’t even show..  </p>";
+                        echo "<p class='small'>[Post-Chorus]</p>";
+                        echo "<p>[G]For me  </p>";
+                        echo "<p>[G]Never, never  </p>";
+                        echo "<p>  [D]Never, never</p>";
+                        echo "<p>[Em]Never, for [C]me </p>";
+                        echo "<p> For me </p>";
+                        echo "<p> [G]Never enough</p>";
+                        echo "<p>[D]Never enough </p>";
+                        echo "<p> For [C]me, for me, for me</p>";
                         echo "<br/>";
 
                         echo "<p class='small'>[Chorus ]</p>";
-                        echo "<p> Go (C) easy(Am) (G)on me, baby </p>";
-                        echo "<p>(Em) I was sti(Dm)ll a child  </p>";
-                        echo "<p> (Dm) Did(Em)n’t (F) get the chance to </p>";
-                        echo "<p> (C) Feel(Am) the (G) world around me </p>";
-                        echo "<p> I (Em) had no time to choo(Dm)se what I(Em) cho(F)se to do  </p>";
-                        echo "<p> So go (C) easy on (Am) me..(Em)..(F) </p>";
+                        echo "<p>[G]All the shine of   </p>";
+                        echo "<p> a thousand spotlights  </p>";
+                        echo "<p> [D]All the stars we </p>";
+                        echo "<p> steal from the night sky</p>";
+                        echo "<p> [Am]Will never be [Em]enough </p>";
+                        echo "<p>[C]Never be enough </p>";
+                        echo "<p>[G]Towers of gold are </p>";
+                        echo "<p> still too little  </p>";
+                        echo "<p>  These [D]hands could</p>";
+                        echo "<p>  hold the world but it'll </p>";
+                        echo "<p>[Am]Never be [Em]enough  </p>";
+                        echo "<p> [C]Never be enough </p>";
                         echo "<br/>";
+
+                        echo "<p class='small'>[Post-Chorus]</p>";
+                        echo "<p>[G]For me  </p>";
+                        echo "<p>[G]Never, never  </p>";
+                        echo "<p>  [D]Never, never</p>";
+                        echo "<p>[Em]Never, for [C]me </p>";
+                        echo "<p> For me </p>";
+                        echo "<p> [G]Never enough</p>";
+                        echo "<p>[D]Never enough </p>";
+                        echo "<p> For [C]me, for me, for me</p>";
+                        echo "<br/>";
+
+                        echo "<p class='small'>[Outro ]</p>";
+                        echo "<p>  [G] For me</p>";
 
 
 
